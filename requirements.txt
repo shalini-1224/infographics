@@ -1,0 +1,9 @@
+google-genai
+pydantic
+PyMuPDF
+Pillow
+streamlit
+fastapi
+uvicorn
+python-multipart
+pymongo

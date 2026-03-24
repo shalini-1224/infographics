@@ -1,0 +1,8 @@
+config.json
+Data/*
+*.log
+temp/*
+*.tmp
+fwdltrealtyrequirementdemoscheduledfor20thmarch/*
+venv_l/*
+__pycache__/*
