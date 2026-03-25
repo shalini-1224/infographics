@@ -59,6 +59,7 @@ def infographics_extraction(image_path, page_number, config_path="config.json"):
     - Convert the visible visual data into a structured markdown table in `chart_md`.
     - Write a detailed narrative for each chart.
     - If a field is not visible, return an empty value.
+    - While generating the `chart_md`, ensure that the markdown table is well-formed and can be rendered correctly. Use \n for new lines and ensure that the table structure is maintained.
     - Return valid JSON only.
     """
 
